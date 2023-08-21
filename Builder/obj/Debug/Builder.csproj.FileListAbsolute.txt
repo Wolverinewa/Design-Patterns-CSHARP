@@ -1,0 +1,6 @@
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\Builder\bin\Debug\Builder.exe.config
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\Builder\bin\Debug\Builder.exe
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\Builder\bin\Debug\Builder.pdb
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\Builder\obj\Debug\Builder.exe
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\Builder\obj\Debug\Builder.pdb

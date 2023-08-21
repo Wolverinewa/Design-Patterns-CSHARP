@@ -1,0 +1,7 @@
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Developer\Treinamento\DesignPatterns\DesignPettrns\AbstractFactory\obj\Debug\AbstractFactory.pdb
